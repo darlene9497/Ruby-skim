@@ -1,0 +1,7 @@
+{
+    "Codegeex.DisabledFor": {
+        "": true,
+        "ruby": true
+    },
+    "git.ignoreLimitWarning": true
+}
